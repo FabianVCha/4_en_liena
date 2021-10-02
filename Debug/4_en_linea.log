@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\FABIAN VASQUEZ\Desktop\PROGRAMACION\PRIMER SEMESTRE\Proyecto_final\4_en_linea\Source.cpp(100,97): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\FABIAN VASQUEZ\Desktop\PROGRAMACION\PRIMER SEMESTRE\Proyecto_final\4_en_linea\Source.cpp(233,97): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  4_en_linea.vcxproj -> C:\Users\FABIAN VASQUEZ\Desktop\PROGRAMACION\PRIMER SEMESTRE\Proyecto_final\4_en_linea\Debug\4_en_linea.exe
